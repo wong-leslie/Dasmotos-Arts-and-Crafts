@@ -7,9 +7,9 @@ h1{
     font-size: 100px;
     font-weight: bold;
     color: khaki; 
-    background-image: url("/resources/images/hero.jpeg");
     font-family: Helvetica;
     text-align:center;
+    background-image: url("/resources/hero.jpeg");
     
 }
 
