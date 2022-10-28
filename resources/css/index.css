@@ -1,0 +1,37 @@
+
+body{
+    font-family: Helvetica;
+}
+
+h1{
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki; 
+    background-image: url("/resources/images/hero.jpeg");
+    font-family: Helvetica;
+    text-align:center;
+    
+}
+
+/* Banners for supplies */
+.banner{
+    font-weight: bold;
+    color:white;
+   
+}
+.green{
+    background-color: mediumspringgreen;
+}
+
+.pink{
+    background-color: lightcoral;
+}
+
+.blue{
+    background-color: skyblue;
+}
+
+span{
+    font-weight: bold;
+    color: blue;
+}
